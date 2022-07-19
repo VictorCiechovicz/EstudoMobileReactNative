@@ -15,8 +15,8 @@ const estilos = StyleSheet.create({
   },
   box: {
     width: 300,
-    height: 100,
-    backgroundColor: '#000',
+    height: 120,
+    backgroundColor: 'rgba(0,0,0,0.6)',
     borderRadius: 20,
     textAlign: 'center'
   },

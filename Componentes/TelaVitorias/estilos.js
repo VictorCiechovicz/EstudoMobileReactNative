@@ -9,7 +9,7 @@ const estilos = StyleSheet.create({
   boxinicial: {
     width: 300,
     height: 200,
-    backgroundColor: '#000',
+    backgroundColor: 'rgba(0,0,0,0.6)',
     alignItems: 'center',
     marginBottom: 20,
     marginTop: 10,
@@ -44,7 +44,7 @@ const estilos = StyleSheet.create({
   },
 
   box: {
-    backgroundColor: '#000',
+    backgroundColor: 'rgba(0,0,0,0.6)',
     opacity: 20,
     width: 300,
     height: 50,

@@ -22,18 +22,22 @@ export default function TelaVitorias() {
           <View style={estilos.subbox}>
             <Text style={estilos.titulosobbox}>
               <FontAwesome name="trophy" size={24} color="#F2DF3A" />
+              {''} {''} {''}
               <Text style={estilos.destaquebox}>161 </Text>GPS DISPUTADOS
             </Text>
             <Text style={estilos.titulosobbox}>
               <FontAwesome name="trophy" size={24} color="#F2DF3A" />
+              {''} {''} {''}
               <Text style={estilos.destaquebox}>65</Text> POLE POSITIONS
             </Text>
             <Text style={estilos.titulosobbox}>
               <FontAwesome name="trophy" size={24} color="#F2DF3A" />
+              {''} {''} {''}
               <Text style={estilos.destaquebox}>41</Text> VITÓRIAS
             </Text>
             <Text style={estilos.titulosobbox}>
               <FontAwesome name="trophy" size={24} color="#F2DF3A" />
+              {''} {''} {''}
               <Text style={estilos.destaquebox}>3X</Text> CAMEPEÃO MUNDIAL
             </Text>
           </View>
